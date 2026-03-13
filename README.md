@@ -12,3 +12,5 @@ This project used two classification models: Support Vector Machine (SVM) and Lo
 
 Logistic Regression tended to do a little better than the SVM for classifying credit risk, according to the results. It’s better at finding borrowers that are considered “high risk” and it also has a higher accuracy rate, which makes it more suitable for helping banks and other financial institutions in finding potential loan defaults. This project shows how supervised machine learning can be used on financial data to make credit risk assessments better and help people make better lending decisions.
 
+<img width="1920" height="975" alt="Image" src="https://github.com/user-attachments/assets/cc194ddc-c31c-4c59-ac7a-ddbf6b230082" />
+<img width="705" height="77" alt="Image" src="https://github.com/user-attachments/assets/a60922b3-0652-491f-8c8f-9c348c21f252" />
